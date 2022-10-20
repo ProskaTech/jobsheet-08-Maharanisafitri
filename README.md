@@ -1,5 +1,8 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+nama:maharani safitri
+nim 21343008
+mengakses elemen array adalah memasukkan atau mengambil nilai dalam elemen array Proses akses terhadap elemen array dilakukan dengan menyebutkan index dari elemen array tersebut. Index array adalah nilai numerik yang digunakan sebagai alamat dari elemen array.
+Untuk menemukan panjang sebuah array, A Anda harus menggunakan length properti. Ini sebagai A.length, jangan gunakan A.length () terutama digunakan untuk ukuran objek yang berhubungan dengan string. Properti length akan selalu menampilkan total ruang yang dialokasikan ke array selama inisialisasi.
+Array multidimensi adalah pengaksesan nilai baris dan kolom Array dalam Arrayatau bisa juga menambahkan data array kedalam array. cara pendeklarasian Array multidimensi : typeArray namaArray [] [] = new typeArray [jumlah] [jumlah]; 
+Penjelasan program tugas sebagai berikut :
+
+Pada tugas 1 kita menggunakan string array untuk menginisialisasikan 7 hari dalam seminggu menggunakan bentuk for serta loop dan print untuk semua isi atau nilai array tersebut. Pada tugas 2 kita menentukan nilai atau angka terbesar dari ynag kita inputkan. Disini menggunakan JOptionPane. Maka dalam program kita dapat membuat var nama array number yang terdiri dari jumlah panjang elemen 11 untuk 10 bil yang diinputkan serta menggunakan perulangan dan menggunakan perintah if yang digunakan untuk membandingkan setiap angka yang diinputkan yang terakhir lalu mencetak denggan mengambil dari var serta penentuan atau pembandingan if tadi untuk pilihan angka terbesar. Pada tugas 3 kita diminta mencetak sesuai inputan tugas pada soal yang berisi array entry yang bertipe string yang merupakan array multidimensi. Untuk mencetaknya kita dapat menggunakan perulangan for dengan sebuah kondisi sesuai yang diminta setelah itu kita ambil indeks pada array entry yang diminta sesuai dengan perulangan yang kita isi atau entry untuk mengambil isi dari masing masing baris tersebut.
